@@ -1,3 +1,4 @@
 lyzr-automata==0.1.2
 streamlit==1.32.2
 python-dotenv==1.0.1
+pypdf==4.1.0
